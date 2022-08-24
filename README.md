@@ -1,3 +1,9 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=gguevarav&column=8&margin-w=2)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+![Pimenov's github stats](https://github-readme-stats.vercel.app/api?username=gguevarav&show_icons=true&hide=prs,contribs&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gguevarav&layout=compact&hide=kotlin)](https://github.com/gguevarav?tab=repositories)
+
 ### Hi there 👋
 
 <!--
